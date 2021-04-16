@@ -1,0 +1,250 @@
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=rkfh&title=&system_id=58&app_id=2&start_page=1&page_size=6&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=10&start_page=1&page_size=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u5f88\u9ad8\u89c1\u5230\u4f60', u'template_title': u'\u4f60\u6765\u5566\uff01', u'created_at': u'2021-02-01 19:43:13', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 126}, {u'template_body': u'\u6709\u4eba\u60f3\u8ba4\u8bc6\u4f60', u'template_title': u'\u7f18\u6765\u662f\u4f60', u'created_at': u'2021-02-01 19:42:40', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 125}], u'total_page': 1, u'total_num': 2}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u5f88\u9ad8\u89c1\u5230\u4f60', u'template_title': u'\u4f60\u6765\u5566\uff01', u'created_at': u'2021-02-01 19:43:13', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 126}, {u'template_body': u'\u6709\u4eba\u60f3\u8ba4\u8bc6\u4f60', u'template_title': u'\u7f18\u6765\u662f\u4f60', u'created_at': u'2021-02-01 19:42:40', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 125}], u'total_page': 1, u'total_num': 2}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=58&app_id=1&start_page=1&page_size=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u63a8\u90011', u'template_title': u'\u63a8\u90011', u'created_at': u'2021-04-16 11:20:31', u'app_id': 1, u'template_type': u'214', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u9648\u777f01', u'template_id': 158}, {u'template_body': u'qwe', u'template_title': u'qwe', u'created_at': u'2021-04-16 11:10:37', u'app_id': 1, u'template_type': u'213', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u6731\u5b5d\u864e', u'template_id': 157}, {u'template_body': u'2', u'template_title': u'1', u'created_at': u'2021-04-14 16:33:42', u'app_id': 1, u'template_type': u'101', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u6731\u5b5d\u864e', u'template_id': 154}, {u'template_body': u'2', u'template_title': u'1', u'created_at': u'2021-04-14 16:33:21', u'app_id': 1, u'template_type': u'101', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u6731\u5b5d\u864e', u'template_id': 153}, {u'template_body': u'123', u'template_title': u'123', u'created_at': u'2021-04-14 16:32:53', u'app_id': 1, u'template_type': u'101', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u6731\u5b5d\u864e', u'template_id': 151}], u'total_page': 2, u'total_num': 7}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u63a8\u90011', u'template_title': u'\u63a8\u90011', u'created_at': u'2021-04-16 11:20:31', u'app_id': 1, u'template_type': u'214', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u9648\u777f01', u'template_id': 158}, {u'template_body': u'qwe', u'template_title': u'qwe', u'created_at': u'2021-04-16 11:10:37', u'app_id': 1, u'template_type': u'213', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u6731\u5b5d\u864e', u'template_id': 157}, {u'template_body': u'2', u'template_title': u'1', u'created_at': u'2021-04-14 16:33:42', u'app_id': 1, u'template_type': u'101', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u6731\u5b5d\u864e', u'template_id': 154}, {u'template_body': u'2', u'template_title': u'1', u'created_at': u'2021-04-14 16:33:21', u'app_id': 1, u'template_type': u'101', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u6731\u5b5d\u864e', u'template_id': 153}, {u'template_body': u'123', u'template_title': u'123', u'created_at': u'2021-04-14 16:32:53', u'app_id': 1, u'template_type': u'101', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u6731\u5b5d\u864e', u'template_id': 151}], u'total_page': 2, u'total_num': 7}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=58&app_id=10&start_page=1&page_size=15&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=58&app_id=2&start_page=1&page_size=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=138&body=&title=&system_id=39&app_id=8&start_page=1&page_size=12&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=121&template_type=145&body=&title=&system_id=58&app_id=6&start_page=1&page_size=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=174&body=&title=&system_id=58&app_id=8&start_page=1&page_size=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=3&start_page=1&page_size=15&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u9001\u793c\u62bd\u5956\uff0c\u4e30\u539a\u5956\u52b1\u7b49\u4f60\u6765\u62ff>>', u'template_title': u'2021\u65b0\u6625\u4f73\u8282\uff0c\u500d\u4eab\u597d\u793c ', u'created_at': u'2021-02-02 17:04:50', u'app_id': 3, u'template_type': u'117', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u674e\u6dd1', u'template_id': 127}, {u'template_body': u'\u6709\u4eba\u60f3\u8981\u8ba4\u8bc6\u4f60', u'template_title': u'\u4f60\u597d\u5440', u'created_at': u'2021-01-22 16:33:00', u'app_id': 3, u'template_type': u'201', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 120}, {u'template_body': u'1', u'template_title': u'1', u'created_at': u'2021-01-20 14:46:29', u'app_id': 3, u'template_type': u'117', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u738b\u5f66\u7434', u'template_id': 118}, {u'template_body': u'\u4eca\u65e5\u63a8\u8350\u5609\u5bbe\u5df2\u66f4\u65b0', u'template_title': u'\u5f81\u5a5a\u89d2', u'created_at': u'2020-12-11 16:07:19', u'app_id': 3, u'template_type': u'117', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u5f20\u51cc\u9752', u'template_id': 115}, {u'template_body': u'\u901f\u6765\u56f4\u89c2', u'template_title': u'${user_nick1}\uff0c\u6709\u4eba\u5728\u5077\u5077\u5173\u6ce8\u4f60', u'created_at': u'2020-11-26 16:17:13', u'app_id': 3, u'template_type': u'200', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 112}, {u'template_body': u'\u5feb\u6765\u5427', u'template_title': u'Ta\u5728\u5077\u5077\u770b\u4f60', u'created_at': u'2020-11-26 15:58:32', u'app_id': 3, u'template_type': u'200', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 111}, {u'template_body': u'${anchor_nick}\u7b49\u4f60\u597d\u4e45\u5566\uff01', u'template_title': u'${user_nick}\uff0c\u5feb\u6765\u5440', u'created_at': u'2020-11-26 15:51:24', u'app_id': 3, u'template_type': u'200', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 110}, {u'template_body': u'${anchor_nick}\u7b49\u4e86\u597d\u4e45\uff01', u'template_title': u'${user_nick}\uff0c\u80fd\u966a\u966aTa\u5417\uff1f', u'created_at': u'2020-11-26 14:30:09', u'app_id': 3, u'template_type': u'201', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8096\u9996\u667a', u'template_id': 109}, {u'template_body': u'\u70b9\u8fdb\u6765\u966a\u6211\u804a\u804a\u561b~', u'template_title': u'\u8ba4\u8bc6\u4f60\u5f88\u5f00\u5fc3', u'created_at': u'2020-11-25 20:53:09', u'app_id': 3, u'template_type': u'200', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 108}, {u'template_body': u'1', u'template_title': u'1', u'created_at': u'2020-09-25 19:22:50', u'app_id': 3, u'template_type': u'121', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8096\u9996\u667a', u'template_id': 68}, {u'template_body': u'ywx-duiyuan-1', u'template_title': u'ywx-duiyuan-1', u'created_at': u'2020-09-25 19:11:51', u'app_id': 3, u'template_type': u'119', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 66}, {u'template_body': u'111', u'template_title': u'111', u'created_at': u'2020-09-25 17:34:19', u'app_id': 3, u'template_type': u'119', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 64}, {u'template_body': u'\u8bbf\u95ee\u4e86\u4f60\u7684\u4e3b\u9875${new_count}\u6b21', u'template_title': u'${anchor_nick} TA\u60f3\u8ba4\u8bc6\u4f60', u'created_at': u'2020-08-04 22:26:46', u'app_id': 3, u'template_type': u'121', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u65bd\u5a9b\u5a9b', u'template_id': 47}, {u'template_body': u'${user_nick},\u5feb\u6765\u770b\u770b\u53c8\u6709\u4eba\u5728\u5077\u5077\u5173\u6ce8\u4f60', u'template_title': u'\u6625\u98ce\u5341\u91cc\uff0c\u4e0d\u5982\u4f60', u'created_at': u'2020-07-01 18:12:39', u'app_id': 3, u'template_type': u'117', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 20}, {u'template_body': u'\u8bbf\u95ee\u4e86\u4f60\u7684\u4e3b\u9875${new_count}\u6b21', u'template_title': u'${anchor_nick} TA\u60f3\u8ba4\u8bc6\u4f60', u'created_at': u'2020-07-01 18:12:39', u'app_id': 3, u'template_type': u'117', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 19}], u'total_page': 1, u'total_num': 15}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u9001\u793c\u62bd\u5956\uff0c\u4e30\u539a\u5956\u52b1\u7b49\u4f60\u6765\u62ff>>', u'template_title': u'2021\u65b0\u6625\u4f73\u8282\uff0c\u500d\u4eab\u597d\u793c ', u'created_at': u'2021-02-02 17:04:50', u'app_id': 3, u'template_type': u'117', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u674e\u6dd1', u'template_id': 127}, {u'template_body': u'\u6709\u4eba\u60f3\u8981\u8ba4\u8bc6\u4f60', u'template_title': u'\u4f60\u597d\u5440', u'created_at': u'2021-01-22 16:33:00', u'app_id': 3, u'template_type': u'201', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 120}, {u'template_body': u'1', u'template_title': u'1', u'created_at': u'2021-01-20 14:46:29', u'app_id': 3, u'template_type': u'117', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u738b\u5f66\u7434', u'template_id': 118}, {u'template_body': u'\u4eca\u65e5\u63a8\u8350\u5609\u5bbe\u5df2\u66f4\u65b0', u'template_title': u'\u5f81\u5a5a\u89d2', u'created_at': u'2020-12-11 16:07:19', u'app_id': 3, u'template_type': u'117', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u5f20\u51cc\u9752', u'template_id': 115}, {u'template_body': u'\u901f\u6765\u56f4\u89c2', u'template_title': u'${user_nick1}\uff0c\u6709\u4eba\u5728\u5077\u5077\u5173\u6ce8\u4f60', u'created_at': u'2020-11-26 16:17:13', u'app_id': 3, u'template_type': u'200', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 112}, {u'template_body': u'\u5feb\u6765\u5427', u'template_title': u'Ta\u5728\u5077\u5077\u770b\u4f60', u'created_at': u'2020-11-26 15:58:32', u'app_id': 3, u'template_type': u'200', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 111}, {u'template_body': u'${anchor_nick}\u7b49\u4f60\u597d\u4e45\u5566\uff01', u'template_title': u'${user_nick}\uff0c\u5feb\u6765\u5440', u'created_at': u'2020-11-26 15:51:24', u'app_id': 3, u'template_type': u'200', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 110}, {u'template_body': u'${anchor_nick}\u7b49\u4e86\u597d\u4e45\uff01', u'template_title': u'${user_nick}\uff0c\u80fd\u966a\u966aTa\u5417\uff1f', u'created_at': u'2020-11-26 14:30:09', u'app_id': 3, u'template_type': u'201', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8096\u9996\u667a', u'template_id': 109}, {u'template_body': u'\u70b9\u8fdb\u6765\u966a\u6211\u804a\u804a\u561b~', u'template_title': u'\u8ba4\u8bc6\u4f60\u5f88\u5f00\u5fc3', u'created_at': u'2020-11-25 20:53:09', u'app_id': 3, u'template_type': u'200', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 108}, {u'template_body': u'1', u'template_title': u'1', u'created_at': u'2020-09-25 19:22:50', u'app_id': 3, u'template_type': u'121', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8096\u9996\u667a', u'template_id': 68}, {u'template_body': u'ywx-duiyuan-1', u'template_title': u'ywx-duiyuan-1', u'created_at': u'2020-09-25 19:11:51', u'app_id': 3, u'template_type': u'119', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 66}, {u'template_body': u'111', u'template_title': u'111', u'created_at': u'2020-09-25 17:34:19', u'app_id': 3, u'template_type': u'119', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 64}, {u'template_body': u'\u8bbf\u95ee\u4e86\u4f60\u7684\u4e3b\u9875${new_count}\u6b21', u'template_title': u'${anchor_nick} TA\u60f3\u8ba4\u8bc6\u4f60', u'created_at': u'2020-08-04 22:26:46', u'app_id': 3, u'template_type': u'121', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u65bd\u5a9b\u5a9b', u'template_id': 47}, {u'template_body': u'${user_nick},\u5feb\u6765\u770b\u770b\u53c8\u6709\u4eba\u5728\u5077\u5077\u5173\u6ce8\u4f60', u'template_title': u'\u6625\u98ce\u5341\u91cc\uff0c\u4e0d\u5982\u4f60', u'created_at': u'2020-07-01 18:12:39', u'app_id': 3, u'template_type': u'117', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 20}, {u'template_body': u'\u8bbf\u95ee\u4e86\u4f60\u7684\u4e3b\u9875${new_count}\u6b21', u'template_title': u'${anchor_nick} TA\u60f3\u8ba4\u8bc6\u4f60', u'created_at': u'2020-07-01 18:12:39', u'app_id': 3, u'template_type': u'117', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 19}], u'total_page': 1, u'total_num': 15}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=6&start_page=1&page_size=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=58&app_id=5&start_page=1&page_size=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=9&body=&title=&system_id=58&app_id=5&start_page=1&page_size=11&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=39&app_id=4&start_page=1&page_size=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=10&start_page=1&page_size=12&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u5f88\u9ad8\u89c1\u5230\u4f60', u'template_title': u'\u4f60\u6765\u5566\uff01', u'created_at': u'2021-02-01 19:43:13', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 126}, {u'template_body': u'\u6709\u4eba\u60f3\u8ba4\u8bc6\u4f60', u'template_title': u'\u7f18\u6765\u662f\u4f60', u'created_at': u'2021-02-01 19:42:40', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 125}], u'total_page': 1, u'total_num': 2}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u5f88\u9ad8\u89c1\u5230\u4f60', u'template_title': u'\u4f60\u6765\u5566\uff01', u'created_at': u'2021-02-01 19:43:13', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 126}, {u'template_body': u'\u6709\u4eba\u60f3\u8ba4\u8bc6\u4f60', u'template_title': u'\u7f18\u6765\u662f\u4f60', u'created_at': u'2021-02-01 19:42:40', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 125}], u'total_page': 1, u'total_num': 2}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=58&app_id=1&start_page=1&page_size=14&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=pqik&system_id=58&app_id=2&start_page=1&page_size=13&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=39&app_id=8&start_page=1&page_size=11&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=58&app_id=4&start_page=1&page_size=15&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=h&title=&system_id=58&app_id=10&start_page=1&page_size=12&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=58&app_id=6&start_page=1&page_size=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=9&start_page=1&page_size=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=180&template_type=&body=&title=&system_id=58&app_id=5&start_page=1&page_size=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=39&app_id=7&start_page=1&page_size=8&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=58&app_id=6&start_page=1&page_size=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=39&app_id=9&start_page=1&page_size=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=x&system_id=58&app_id=5&start_page=1&page_size=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=5&start_page=1&page_size=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u8fd9\u91cc\u6709\u4eba\u5728\u5077\u5077\u770b\u4f60', u'template_title': u'\u4f60\u597d\u5440', u'created_at': u'2020-11-27 11:04:00', u'app_id': 5, u'template_type': u'122', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 114}, {u'template_body': u'22222', u'template_title': u'22222', u'created_at': u'2020-09-25 19:24:37', u'app_id': 5, u'template_type': u'122', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8096\u9996\u667a', u'template_id': 69}, {u'template_body': u'ywx-inkejisu-1', u'template_title': u'ywx-inkejisu-1', u'created_at': u'2020-09-25 19:13:25', u'app_id': 5, u'template_type': u'120', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 67}, {u'template_body': u'\u649e\u6211\u5fc3\u53e3\u4e0a\u4e86', u'template_title': u'\u4f60\u773c\u778e\u5417', u'created_at': u'2020-07-09 17:52:00', u'app_id': 5, u'template_type': u'0', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 43}], u'total_page': 1, u'total_num': 4}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u8fd9\u91cc\u6709\u4eba\u5728\u5077\u5077\u770b\u4f60', u'template_title': u'\u4f60\u597d\u5440', u'created_at': u'2020-11-27 11:04:00', u'app_id': 5, u'template_type': u'122', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 114}, {u'template_body': u'22222', u'template_title': u'22222', u'created_at': u'2020-09-25 19:24:37', u'app_id': 5, u'template_type': u'122', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8096\u9996\u667a', u'template_id': 69}, {u'template_body': u'ywx-inkejisu-1', u'template_title': u'ywx-inkejisu-1', u'created_at': u'2020-09-25 19:13:25', u'app_id': 5, u'template_type': u'120', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 67}, {u'template_body': u'\u649e\u6211\u5fc3\u53e3\u4e0a\u4e86', u'template_title': u'\u4f60\u773c\u778e\u5417', u'created_at': u'2020-07-09 17:52:00', u'app_id': 5, u'template_type': u'0', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 43}], u'total_page': 1, u'total_num': 4}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=e&system_id=39&app_id=8&start_page=1&page_size=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=2&start_page=1&page_size=11&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'${anchor_nick}\u6b63\u5728\u76f4\u64ad', u'template_title': u'\u731c\u4f60\u559c\u6b22', u'created_at': u'2020-07-02 16:25:32', u'app_id': 2, u'template_type': u'0', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u6b27\u660a', u'template_id': 27}, {u'template_body': u'"\u6211\u4eec\u770b\u9519\u4e86\u4e16\u754c\uff0c\u53cd\u800c\u8bf4\u5b83\u6b3a\u9a97\u4e86\u6211\u4eec"', u'template_title': u'\u8bfb\u8bd7--\u771f\u7684\u662f\u6211\u4eec\u9519\u4e86\u5417', u'created_at': u'2020-07-02 16:25:32', u'app_id': 2, u'template_type': u'0', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8096\u9996\u667a', u'template_id': 26}], u'total_page': 1, u'total_num': 2}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'${anchor_nick}\u6b63\u5728\u76f4\u64ad', u'template_title': u'\u731c\u4f60\u559c\u6b22', u'created_at': u'2020-07-02 16:25:32', u'app_id': 2, u'template_type': u'0', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u6b27\u660a', u'template_id': 27}, {u'template_body': u'"\u6211\u4eec\u770b\u9519\u4e86\u4e16\u754c\uff0c\u53cd\u800c\u8bf4\u5b83\u6b3a\u9a97\u4e86\u6211\u4eec"', u'template_title': u'\u8bfb\u8bd7--\u771f\u7684\u662f\u6211\u4eec\u9519\u4e86\u5417', u'created_at': u'2020-07-02 16:25:32', u'app_id': 2, u'template_type': u'0', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8096\u9996\u667a', u'template_id': 26}], u'total_page': 1, u'total_num': 2}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=58&app_id=3&start_page=1&page_size=15&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=178&template_type=&body=&title=&system_id=39&app_id=10&start_page=1&page_size=14&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=58&app_id=6&start_page=1&page_size=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=6&start_page=1&page_size=6&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=vzt&title=&system_id=39&app_id=3&start_page=1&page_size=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=8&start_page=1&page_size=13&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=106&template_type=&body=&title=&system_id=58&app_id=3&start_page=1&page_size=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=5&start_page=1&page_size=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u8fd9\u91cc\u6709\u4eba\u5728\u5077\u5077\u770b\u4f60', u'template_title': u'\u4f60\u597d\u5440', u'created_at': u'2020-11-27 11:04:00', u'app_id': 5, u'template_type': u'122', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 114}, {u'template_body': u'22222', u'template_title': u'22222', u'created_at': u'2020-09-25 19:24:37', u'app_id': 5, u'template_type': u'122', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8096\u9996\u667a', u'template_id': 69}, {u'template_body': u'ywx-inkejisu-1', u'template_title': u'ywx-inkejisu-1', u'created_at': u'2020-09-25 19:13:25', u'app_id': 5, u'template_type': u'120', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 67}, {u'template_body': u'\u649e\u6211\u5fc3\u53e3\u4e0a\u4e86', u'template_title': u'\u4f60\u773c\u778e\u5417', u'created_at': u'2020-07-09 17:52:00', u'app_id': 5, u'template_type': u'0', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 43}], u'total_page': 1, u'total_num': 4}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [{u'template_body': u'\u8fd9\u91cc\u6709\u4eba\u5728\u5077\u5077\u770b\u4f60', u'template_title': u'\u4f60\u597d\u5440', u'created_at': u'2020-11-27 11:04:00', u'app_id': 5, u'template_type': u'122', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 114}, {u'template_body': u'22222', u'template_title': u'22222', u'created_at': u'2020-09-25 19:24:37', u'app_id': 5, u'template_type': u'122', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8096\u9996\u667a', u'template_id': 69}, {u'template_body': u'ywx-inkejisu-1', u'template_title': u'ywx-inkejisu-1', u'created_at': u'2020-09-25 19:13:25', u'app_id': 5, u'template_type': u'120', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 67}, {u'template_body': u'\u649e\u6211\u5fc3\u53e3\u4e0a\u4e86', u'template_title': u'\u4f60\u773c\u778e\u5417', u'created_at': u'2020-07-09 17:52:00', u'app_id': 5, u'template_type': u'0', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u4f59\u6587\u7965', u'template_id': 43}], u'total_page': 1, u'total_num': 4}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=a&system_id=39&app_id=7&start_page=1&page_size=15&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=177&body=&title=&system_id=39&app_id=3&start_page=1&page_size=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=188&body=&title=&system_id=39&app_id=7&start_page=1&page_size=11&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=168&template_type=&body=&title=&system_id=58&app_id=8&start_page=1&page_size=6&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=jfp&title=&system_id=58&app_id=4&start_page=1&page_size=8&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=58&app_id=1&start_page=1&page_size=15&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=tu&title=&system_id=39&app_id=4&start_page=1&page_size=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=39&app_id=8&start_page=1&page_size=6&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=169&template_type=&body=&title=&system_id=58&app_id=3&start_page=1&page_size=15&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=39&app_id=3&start_page=1&page_size=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u4f60\u597d', u'template_title': u'', u'created_at': u'2021-01-27 20:35:22', u'app_id': 3, u'template_type': u'204', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 2, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 124}, {u'template_body': u'\u70b9\u51fb\u67e5\u770b', u'template_title': u'\u6709\u4eba\u67e5\u770b\u4e86\u4f60\u7684\u4e3b\u9875', u'created_at': u'2021-01-22 19:25:43', u'app_id': 3, u'template_type': u'204', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 2, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 122}, {u'template_body': u"'\u6211\u8fd8\u5728\u7b49\u4f60' 1\u540d\u4e0e\u4f60\u8fde\u9ea6\u6700\u591a\u7684\u5973\u58eb\u6700\u8fd1\u591a\u6b21\u67e5\u770b\u4f60\u7684\u7167\u7247\uff0c\u70b9 http://in2.cn/zJ6pp2 \u67e5\u770b", u'template_title': u'', u'created_at': u'2021-01-22 17:37:26', u'app_id': 3, u'template_type': u'203', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 2, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 121}], u'total_page': 1, u'total_num': 3}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [{u'template_body': u'\u4f60\u597d', u'template_title': u'', u'created_at': u'2021-01-27 20:35:22', u'app_id': 3, u'template_type': u'204', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 2, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 124}, {u'template_body': u'\u70b9\u51fb\u67e5\u770b', u'template_title': u'\u6709\u4eba\u67e5\u770b\u4e86\u4f60\u7684\u4e3b\u9875', u'created_at': u'2021-01-22 19:25:43', u'app_id': 3, u'template_type': u'204', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 2, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 122}, {u'template_body': u"'\u6211\u8fd8\u5728\u7b49\u4f60' 1\u540d\u4e0e\u4f60\u8fde\u9ea6\u6700\u591a\u7684\u5973\u58eb\u6700\u8fd1\u591a\u6b21\u67e5\u770b\u4f60\u7684\u7167\u7247\uff0c\u70b9 http://in2.cn/zJ6pp2 \u67e5\u770b", u'template_title': u'', u'created_at': u'2021-01-22 17:37:26', u'app_id': 3, u'template_type': u'203', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 2, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 121}], u'total_page': 1, u'total_num': 3}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=2&user_id=&template_type=&body=&title=&system_id=39&app_id=7&start_page=1&page_size=14&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=6&start_page=1&page_size=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [], u'total_page': 0, u'total_num': 0}, u'error_msg': u'success', u'dm_error': 0}
+
+
+True /api/push/template/list?touch_type=1&user_id=&template_type=&body=&title=&system_id=39&app_id=10&start_page=1&page_size=14&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': {u'list': [{u'template_body': u'\u5f88\u9ad8\u89c1\u5230\u4f60', u'template_title': u'\u4f60\u6765\u5566\uff01', u'created_at': u'2021-02-01 19:43:13', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 126}, {u'template_body': u'\u6709\u4eba\u60f3\u8ba4\u8bc6\u4f60', u'template_title': u'\u7f18\u6765\u662f\u4f60', u'created_at': u'2021-02-01 19:42:40', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 125}], u'total_page': 1, u'total_num': 2}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'list': [{u'template_body': u'\u5f88\u9ad8\u89c1\u5230\u4f60', u'template_title': u'\u4f60\u6765\u5566\uff01', u'created_at': u'2021-02-01 19:43:13', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 126}, {u'template_body': u'\u6709\u4eba\u60f3\u8ba4\u8bc6\u4f60', u'template_title': u'\u7f18\u6765\u662f\u4f60', u'created_at': u'2021-02-01 19:42:40', u'app_id': 10, u'template_type': u'205', u'system_id': 0, u'average_click_rate': u'', u'touch_type': 1, u'user_name': u'\u8c08\u5149\u7389', u'template_id': 125}], u'total_page': 1, u'total_num': 2}, u'error_msg': u'success', u'dm_error': 0}
+
