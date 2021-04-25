@@ -92,11 +92,8 @@ def saveAndDelete(SaveBodyConfig, SaveConfig, saveAPI, machine, queryAPI, queryC
 
 if __name__ == '__main__':
     flag = 1
-    for i in range(10):
+    for i in range(100):
         print(i)
         flag = saveAndDelete(SAVEBODY, SAVECONFIG, SAVEAPI, MACHINE2, QUERYAPI, QUERYCONFIG, DELETEBODY, DELETECONFIG,
                              DELETEAPI)
-
-        if flag == 0:
-            break
     print("cmpare")

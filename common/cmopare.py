@@ -20,7 +20,8 @@ def PostSingle(body_config_name, config_name, api, machine1, ):
     flag1 = 1
     params = read_config.readandset(config_name, 10)
     body1 = build_body.readbody(body_config_name)
-
+    reload(sys)
+    sys.setdefaultencoding('utf8')
     body = '{' + body1 + '}'
 
     uri = buildURI(api, params)
@@ -42,6 +43,7 @@ def PostSingle(body_config_name, config_name, api, machine1, ):
     logmessage = "\n" + str(nowTime) + "  " + str(result) + " " + str(uri) + "\n" + str(body) + "\n" + str(
         machine1) + ":" + str(
         httpresp1) + "\n"
+    logmessage = logmessage.decode("unicode-escape")
     save_data(logmessage, sys.path[0] + "/" + path + '.log')
     if flag1 == 0:
         save_data(logmessage, sys.path[0] + "/" + path + '.error')
@@ -129,7 +131,8 @@ def TotalFun(config_name, api, machine1, machine2, ):
     flag = 0
     httpresp1 = visitURL(machine1, uri)
     httpresp2 = visitURL(machine2, uri)
-
+    reload(sys)
+    sys.setdefaultencoding('utf8')
     result = httpresp1 == httpresp2
     if httpresp1['dm_error'] != 0 or httpresp2['dm_error'] != 0 or result == False:
         flag1 = 0
@@ -145,6 +148,7 @@ def TotalFun(config_name, api, machine1, machine2, ):
     logmessage = "\n" + str(nowTime) + "  " + str(result) + " " + str(uri) + "\n" + str(machine1) + ":" + str(
         httpresp1) + "\n" + str(
         machine2) + ":" + str(httpresp2) + "\n"
+    logmessage = logmessage.decode("unicode-escape")
     save_data(logmessage, sys.path[0] + "/" + path + '.log')
     if flag1 == 0:
         save_data(logmessage, sys.path[0] + "/" + path + '.error')
