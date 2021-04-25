@@ -8,5 +8,6 @@ CONFIGNAME = "template_delete_config.ini"
 BODYCONFIG = "template_delete.ini"
 
 if __name__ == '__main__':
-    for i in range(1):
-        PostSingle(BODYCONFIG, CONFIGNAME, API, MACHINE2)
+    for i in range(100):
+        print i
+        PostSingle(BODYCONFIG, CONFIGNAME, API, MACHINE1)

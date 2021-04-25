@@ -15,6 +15,41 @@ API = "/api/push/template/list"
 CONFIGNAME = "template_list_config.ini"
 
 
+def PostDouble(body_config_name, config_name, api, machine1, machine2):
+    flag1 = 1
+    params = read_config.readandset(config_name, 10)
+    body1 = build_body.readbody(body_config_name)
+    reload(sys)
+    sys.setdefaultencoding('utf8')
+    body = '{' + body1 + '}'
+
+    uri = buildURI(api, params)
+    path = ""
+    flag = 0
+    httpresp1 = visitBodyURL(machine1, body, uri)
+    httpresp2 = visitBodyURL(machine2, body, uri)
+    result = httpresp1 == httpresp2
+    if httpresp1['dm_error'] != 0 or httpresp2['dm_error'] != 0 or result == False:
+        flag1 = 0
+    temp = api.split('/')
+    for i in temp:
+        if i != "":
+            flag = flag + 1
+            if flag == 1:
+                path += str(i)
+            else:
+                path += '_' + str(i)
+    nowTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    logmessage = "\n" + str(nowTime) + "  " + str(result) + " " + str(uri) + "\n" + str(machine1) + ":" + str(
+        httpresp1) + "\n" + str(
+        machine2) + ":" + str(httpresp2) + "\n"
+    logmessage = logmessage.decode("unicode-escape")
+    save_data(logmessage, sys.path[0] + "/" + path + '.log')
+    if flag1 == 0:
+        save_data(logmessage, sys.path[0] + "/" + path + '.error')
+    return flag1, logmessage, params, body1
+
+
 # 向一台机器发送一个post请求 并输出日志和返回日志和结果
 def PostSingle(body_config_name, config_name, api, machine1, ):
     flag1 = 1

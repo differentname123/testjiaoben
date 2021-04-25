@@ -7,5 +7,6 @@ API = "/api/push/template/list"
 CONFIGNAME = "template_list_config.ini"
 
 if __name__ == '__main__':
-    for i in range(10000):
+    for i in range(100):
+        print i
         TotalFun(CONFIGNAME, API, MACHINE1, MACHINE2)

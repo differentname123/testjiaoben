@@ -7,6 +7,6 @@ API = "/api/push/task/run_status_stat"
 CONFIGNAME = "task_run_status_stat_config.ini"
 
 if __name__ == '__main__':
-    for i in range(1000):
+    for i in range(100):
         print i
         TotalFun(CONFIGNAME, API, MACHINE1, MACHINE2)

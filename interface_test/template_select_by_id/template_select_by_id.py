@@ -8,4 +8,5 @@ CONFIGNAME = "template_selecte_by_id_config.ini"
 
 if __name__ == '__main__':
     for i in range(1000):
+        print i
         TotalFun(CONFIGNAME, API, MACHINE1, MACHINE2)
