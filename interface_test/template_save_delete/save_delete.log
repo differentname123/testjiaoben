@@ -1,0 +1,120 @@
+save: 
+2021-04-25 11:31:29  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":1,"template_title":"if you see this","template_body":"f","touch_type":1,"template_type":"gk"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:31:30  True /api/push/template/delete?app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":9,"template_id":273}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:32:45  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":1,"template_title":"gpabzmftl","template_body":"tdhgx","touch_type":1,"template_type":"ol"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:32:45  True /api/push/template/delete?app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":8,"template_id":274}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:34:01  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":1,"template_title":"btlc","template_body":"fbhq","touch_type":1,"template_type":"z"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:34:02  True /api/push/template/delete?app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":3,"template_id":275}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:34:02  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":1,"template_title":"z","template_body":"lx","touch_type":1,"template_type":"nzx"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:34:02  True /api/push/template/delete?app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":4,"template_id":276}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:34:02  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":1,"template_title":"jqvmsl","template_body":"tmel","touch_type":1,"template_type":"fkgoduxtas"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:34:02  True /api/push/template/delete?app_id=3&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":7,"template_id":277}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:34:02  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":1,"template_title":"zih","template_body":"dbaz","touch_type":1,"template_type":"uwqi"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:34:02  True /api/push/template/delete?app_id=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":3,"template_id":278}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:34:03  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":1,"template_title":"rao","template_body":"ca","touch_type":1,"template_type":"mybk"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:34:03  True /api/push/template/delete?app_id=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":4,"template_id":279}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:34:03  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":1,"template_title":"fzrtajmoe","template_body":"tknh","touch_type":1,"template_type":"u"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:34:03  True /api/push/template/delete?app_id=8&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":1,"template_id":280}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:34:03  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":1,"template_title":"zfiusdqm","template_body":"l","touch_type":1,"template_type":"pudmblx"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:34:03  True /api/push/template/delete?app_id=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":5,"template_id":281}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:34:03  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":1,"template_title":"ycq","template_body":"b","touch_type":1,"template_type":"tscauwrzhy"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:34:03  True /api/push/template/delete?app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":4,"template_id":282}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:34:03  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":1,"template_title":"wge","template_body":"ybgw","touch_type":1,"template_type":"aht"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:34:04  True /api/push/template/delete?app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":3,"template_id":283}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+save: 
+2021-04-25 11:34:04  True /api/push/template/save?app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":1,"template_title":"tmqbpxylkd","template_body":"omzjx","touch_type":1,"template_type":"v"}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+delete: 
+2021-04-25 11:34:04  True /api/push/template/delete?app_id=3&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":5,"template_id":284}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+

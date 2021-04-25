@@ -1,0 +1,60 @@
+
+2021-04-25 11:31:30  True /api/push/template/delete?app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":9,"template_id":273}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:32:45  True /api/push/template/delete?app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":8,"template_id":274}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:34:02  True /api/push/template/delete?app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":3,"template_id":275}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:34:02  True /api/push/template/delete?app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":4,"template_id":276}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:34:02  True /api/push/template/delete?app_id=3&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":7,"template_id":277}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:34:02  True /api/push/template/delete?app_id=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":3,"template_id":278}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:34:03  True /api/push/template/delete?app_id=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":4,"template_id":279}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:34:03  True /api/push/template/delete?app_id=8&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":1,"template_id":280}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:34:03  True /api/push/template/delete?app_id=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":5,"template_id":281}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:34:03  True /api/push/template/delete?app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":4,"template_id":282}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:34:04  True /api/push/template/delete?app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=58
+{"app_id":3,"template_id":283}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-25 11:34:04  True /api/push/template/delete?app_id=3&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39
+{"app_id":5,"template_id":284}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'success', u'dm_error': 0}
+

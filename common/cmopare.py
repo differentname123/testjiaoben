@@ -183,6 +183,7 @@ def visitBodyURL(name, body, uri):
 
 def visitURL(name, uri):
     url = HEAD + name + uri
+
     resp = httpGet(url)
     return resp
 

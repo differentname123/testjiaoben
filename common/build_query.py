@@ -19,8 +19,27 @@ def repalceValue(origin, key, value):
     origin = produceQuary(origin)
     return origin
 
+# 将request格式 增加一个newkey  值为oldKey的值
+def addKey(origin, oldKey, newKey):
+    origin = dealRequest(origin)
+    origin[newKey] = origin.get(oldKey)
+    origin = produceQuary(origin)
+    return origin
 
-# 将body格式转化为字典
+# 将body格式转化为字典  不加加上""
+def dealBodyNull(req):
+    dic = dict()
+    req = req.replace('"', '')
+    slicetemp = req.split(',')
+    for temp in slicetemp:
+        finalslice = temp.split(':')
+        if finalslice[1] != "":
+            key = finalslice[0]
+            value = finalslice[1]
+            dic[key] = value
+    return dic
+
+# 将body格式转化为字典  加上""
 def dealBody(req):
     dic = dict()
     req = req.replace('"', '')
@@ -33,8 +52,18 @@ def dealBody(req):
             dic[key] = value
     return dic
 
+# 将url格式转化为字典 保留空字段
+def dealRequestNull(req):
+    dic = dict()
+    slicetemp = req.split('&')
+    for temp in slicetemp:
+        finalslice = temp.split('=')
+        key = finalslice[0]
+        value = finalslice[1]
+        dic[key] = value
+    return dic
 
-# 将url格式转化为字典
+# 将url格式转化为字典  去除空字段
 def dealRequest(req):
     dic = dict()
     slicetemp = req.split('&')
@@ -47,7 +76,7 @@ def dealRequest(req):
     return dic
 
 
-# 以右边字典更新左边拥有的字段的值
+# 以右边字典更新左边字典拥有的字段的值
 def produceFinal(origin, mergerequest):
     for dic1 in origin.keys():
         if mergerequest.has_key(dic1):
@@ -64,7 +93,6 @@ def mergeDict(request, body):
         else:
             value = body.get(dic1)
             request[dic1] = value
-    print (request)
     return request
 
 
@@ -103,9 +131,17 @@ def produceQuary(dic):
 # 将request格式和body格式合并成 一个字典并返回
 def mergeRequestBody(request, body):
     request = dealRequest(request)
-    body = dealBody(body)
+    body = dealBodyNull(body)
     result = mergeDict(request, body)
-    print(result)
+    return result
+
+
+# 以右边字典更新左边request查询语句 得到两个参数的集合
+def updateQuery(origin, mergerequest):
+    origin = dealRequestNull(origin)
+    for dic1 in mergerequest.keys():
+            origin[dic1] = mergerequest.get(dic1).replace(' ', '+')
+    result = produceQuary(origin)
     return result
 
 
