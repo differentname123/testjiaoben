@@ -2,12 +2,21 @@
 import json
 import sys
 import time
+import urllib2
 
-from common.cmopare import visitURL, httpGet
 
 HEAD = "http://"
 MACHINE1 = "127.0.0.1:8514"
 MACHINE2 = "testgrowth.busi.inkept.cn"
+
+
+# get访问指定url 并返回json格式的响应
+def httpGet(url):
+    req = urllib2.Request(url)
+    print (url + "\n")
+    res_data = urllib2.urlopen(req)
+    response = res_data.read()
+    return json.loads(response)
 
 
 # 通过一条日志信息originStr ， 提取相应的请求 分别打向两台机器 并返回响应值
@@ -82,16 +91,22 @@ def saveLog(httpresp1, httpresp2, path, machine1, machine2, uri):
         save_data(logmessage, sys.path[0] + "/" + path + '.error')
 
 
-def ReadLogAndGet(logName, machine1, machine2):
+def ReadLogAndGet(logName, machine1, machine2, count):
     path = sys.path[0] + "/" + logName
     file = open(path, 'r')
+    i = 0
     try:
         while True:
             text_line = file.readline()
             if text_line:
+                if i >= count:
+                    return ''
+                i = i + 1
+                print i
                 path = buildPathName(text_line)
                 result1, result2 = compare(text_line, machine1, machine2)
                 saveLog(result1, result2, path, machine1, machine2, getValue(text_line, 'req_uri'))
+
             else:
                 break
     finally:
@@ -99,4 +114,4 @@ def ReadLogAndGet(logName, machine1, machine2):
 
 
 if __name__ == '__main__':
-    ReadLogAndGet('access-2021042615.log', MACHINE1, MACHINE2)
+    ReadLogAndGet('access-2021042615.log', MACHINE1, MACHINE2, 20)
