@@ -19,8 +19,6 @@ def compare(originStr, machine1, machine2):
         return "", ""
     resp1 = httpGet(request1)
     resp2 = httpGet(request2)
-    print resp1
-    print resp2
     return resp1, resp2
 
 
@@ -65,7 +63,7 @@ def save_data(line, filepath):
         f.write(line + '\n')
 
 
-def saveLog(httpresp1, httpresp2, path, machine1, machine2):
+def saveLog(httpresp1, httpresp2, path, machine1, machine2, uri):
     if httpresp1 == "" or httpresp2 == "":
         return 0
     flag1 = 1
@@ -75,7 +73,7 @@ def saveLog(httpresp1, httpresp2, path, machine1, machine2):
     if httpresp1['dm_error'] != 0 or httpresp2['dm_error'] != 0 or result == False:
         flag1 = 0
     nowTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    logmessage = "\n" + str(nowTime) + "  " + str(result) + "\n" + str(machine1) + str(":") + str(
+    logmessage = "\n" + str(nowTime) + "  " + str(result) + "  " + str(uri) + "\n" + str(machine1) + str(":") + str(
         httpresp1) + "\n" + str(
         machine2) + str(":") + str(httpresp2) + "\n"
     logmessage = logmessage.decode("unicode-escape")
@@ -93,8 +91,7 @@ def ReadLogAndGet(logName, machine1, machine2):
             if text_line:
                 path = buildPathName(text_line)
                 result1, result2 = compare(text_line, machine1, machine2)
-                saveLog(result1, result2, path, machine1, machine2)
-                print(text_line)
+                saveLog(result1, result2, path, machine1, machine2, getValue(text_line, 'req_uri'))
             else:
                 break
     finally:
