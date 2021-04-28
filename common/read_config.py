@@ -113,6 +113,15 @@ def readandset(param_config, rate):
 
     return result
 
+def getConfigValue(key):
+    cf = configparser.ConfigParser()
+    cf.read('/Users/inke213261m/PycharmProjects/pythonProject/common/allConfig.ini')  # 拼接得到config.ini文件的路径，直接使用
+    params = cf.sections()
+    for param in params:
+        value = cf.get(param, key)
+        if value != "":
+            return value
+    return 0
 
 def read(param_config):
     RANDRATE = 10
@@ -147,4 +156,4 @@ def read(param_config):
 
 
 if __name__ == '__main__':
-    read()
+    print sys.path

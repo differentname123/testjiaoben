@@ -4,7 +4,7 @@ import sys
 from common.build_body import readbody
 from common.build_query import repalceValue, repalceBodyValue, mergeRequestBody, produceFinal, updateQuery, addKey
 from common.cmopare import buildURI, visitURL, singleGet, PostSingle, SinglePost, save_data
-from common.read_config import readandset
+from common.read_config import readandset, getConfigValue
 
 HEAD = "http://"
 MACHINE1 = "127.0.0.1:8514"
@@ -92,7 +92,8 @@ def saveAndDelete(SaveBodyConfig, SaveConfig, saveAPI, machine, queryAPI, queryC
 
 if __name__ == '__main__':
     flag = 1
-    for i in range(100):
+    excuteTime = int(getConfigValue('excuteTime'))
+    for i in range(excuteTime):
         print(i)
         flag = saveAndDelete(SAVEBODY, SAVECONFIG, SAVEAPI, MACHINE2, QUERYAPI, QUERYCONFIG, DELETEBODY, DELETECONFIG,
                              DELETEAPI)

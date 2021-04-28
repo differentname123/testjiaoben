@@ -1,0 +1,365 @@
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=5&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=617
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[617]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[617]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=153
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[153]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[153]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=5&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=265
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[265]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[265]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=3&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=590
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[590]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[590]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=133
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[133]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[133]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=463
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[463]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[463]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=8&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=557
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[557]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[557]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=7&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=319
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[319]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[319]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=3&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=851
+127.0.0.1:8514:{u'data': {u'template_body': u'docyqkpuf', u'quote_task_info': [], u'template_title': u'nsuhblfajg', u'user_id': 119, u'template_type': u'1013', u'touch_type': 3}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'docyqkpuf', u'quote_task_info': [], u'template_title': u'nsuhblfajg', u'user_id': 119, u'template_type': u'1013', u'touch_type': 3}, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=404
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[404]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[404]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=84
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[84]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[84]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=49
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[49]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[49]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=549
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[549]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[549]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=790
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[790]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[790]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=192
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[192]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[192]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=339
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[339]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[339]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=8&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=520
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[520]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[520]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=10&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=949
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[949]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[949]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=9&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=265
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[265]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[265]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=7&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=612
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[612]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[612]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=7&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=735
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[735]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[735]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=4&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=155
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[155]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[155]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=8&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=153
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[153]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[153]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:36  True /api/push/template/select_by_id?system_id=39&app_id=1&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=976
+127.0.0.1:8514:{u'data': {u'template_body': u'ct', u'quote_task_info': [], u'template_title': u'gyjv', u'user_id': 119, u'template_type': u'1138', u'touch_type': 3}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'ct', u'quote_task_info': [], u'template_title': u'gyjv', u'user_id': 119, u'template_type': u'1138', u'touch_type': 3}, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=900
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[900]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[900]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=10&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=155
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[155]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[155]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=10&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=766
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[766]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[766]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=351
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[351]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[351]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=745
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[745]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[745]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=5&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=78
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[78]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[78]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=858
+127.0.0.1:8514:{u'data': {u'template_body': u'pfxdgj', u'quote_task_info': [], u'template_title': u'vycuklig', u'user_id': 119, u'template_type': u'1020', u'touch_type': 3}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'pfxdgj', u'quote_task_info': [], u'template_title': u'vycuklig', u'user_id': 119, u'template_type': u'1020', u'touch_type': 3}, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=592
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[592]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[592]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=7&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=146
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[146]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[146]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=899
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[899]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[899]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=8&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=455
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[455]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[455]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=10&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=736
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[736]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[736]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=8&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=158
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[158]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[158]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=10&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=983
+127.0.0.1:8514:{u'data': {u'template_body': u'pt', u'quote_task_info': [], u'template_title': u'difeyugs', u'user_id': 119, u'template_type': u'1145', u'touch_type': 1}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'pt', u'quote_task_info': [], u'template_title': u'difeyugs', u'user_id': 119, u'template_type': u'1145', u'touch_type': 1}, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=1&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=811
+127.0.0.1:8514:{u'data': {u'template_body': u'vrkpubl', u'quote_task_info': [], u'template_title': u'sdfl', u'user_id': 119, u'template_type': u'973', u'touch_type': 1}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'vrkpubl', u'quote_task_info': [], u'template_title': u'sdfl', u'user_id': 119, u'template_type': u'973', u'touch_type': 1}, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=9&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=263
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[263]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[263]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=7&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=99
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[99]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[99]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=10&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=348
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[348]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[348]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=968
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[968]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[968]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=9&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=379
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[379]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[379]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=9&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=960
+127.0.0.1:8514:{u'data': {u'template_body': u'vgazeqki', u'quote_task_info': [], u'template_title': u'g', u'user_id': 119, u'template_type': u'1122', u'touch_type': 2}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'vgazeqki', u'quote_task_info': [], u'template_title': u'g', u'user_id': 119, u'template_type': u'1122', u'touch_type': 2}, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=9&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=770
+127.0.0.1:8514:{u'data': {u'template_body': u'pl', u'quote_task_info': [], u'template_title': u'm', u'user_id': 119, u'template_type': u'932', u'touch_type': 2}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'pl', u'quote_task_info': [], u'template_title': u'm', u'user_id': 119, u'template_type': u'932', u'touch_type': 2}, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=8&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=731
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[731]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[731]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:37  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=477
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[477]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[477]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=932
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[932]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[932]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=9&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=982
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[982]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[982]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=7&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=44
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[44]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[44]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=3&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=549
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[549]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[549]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=9&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=403
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[403]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[403]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=557
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[557]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[557]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=4&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=559
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[559]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[559]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=8&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=900
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[900]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[900]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=235
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[235]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[235]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=4&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=116
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[116]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[116]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=6&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=682
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[682]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[682]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=30
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[30]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[30]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=1&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=234
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[234]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[234]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=7&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=859
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[859]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[859]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=10&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=437
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[437]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[437]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=7&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=928
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[928]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[928]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=7&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=965
+127.0.0.1:8514:{u'data': {u'template_body': u'zn', u'quote_task_info': [], u'template_title': u'gvo', u'user_id': 119, u'template_type': u'1127', u'touch_type': 3}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'zn', u'quote_task_info': [], u'template_title': u'gvo', u'user_id': 119, u'template_type': u'1127', u'touch_type': 3}, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=53
+127.0.0.1:8514:{u'data': {u'template_body': u'ywx222', u'quote_task_info': [{u'task_type': u'周期性任务', u'task_id': 20472, u'created_at': u'2020-09-25 11:54:48', u'task_name': u'1', u'run_status': u'已终止', u'user_name': u'欧昊'}, {u'task_type': u'周期性任务/一次性任务', u'task_id': 20473, u'created_at': u'2020-09-27 10:16:57', u'task_name': u'ywx-custom-select', u'run_status': u'暂停中', u'user_name': u'余文祥'}, {u'task_type': u'周期性任务', u'task_id': 20526, u'created_at': u'2020-10-27 15:39:06', u'task_name': u'1', u'run_status': u'已结束', u'user_name': u'余文祥'}, {u'task_type': u'周期性任务', u'task_id': 20609, u'created_at': u'2020-11-03 11:52:05', u'task_name': u'123456', u'run_status': u'已终止', u'user_name': u'余文祥'}, {u'task_type': u'一次性任务', u'task_id': 20619, u'created_at': u'2020-11-09 11:15:12', u'task_name': u'编辑测试7', u'run_status': u'暂停中', u'user_name': u'谈光玉'}, {u'task_type': u'周期性任务', u'task_id': 20672, u'created_at': u'2020-12-07 16:27:26', u'task_name': u'1', u'run_status': u'已终止', u'user_name': u'欧昊'}, {u'task_type': u'周期性任务', u'task_id': 20688, u'created_at': u'2020-12-14 16:57:25', u'task_name': u'剩余期数提醒-', u'run_status': u'已终止', u'user_name': u'谈光玉'}, {u'task_type': u'周期性任务', u'task_id': 20691, u'created_at': u'2020-12-14 21:46:56', u'task_name': u'剩余期数提醒--副本', u'run_status': u'已终止', u'user_name': u'谈光玉'}, {u'task_type': u'周期性任务', u'task_id': 20692, u'created_at': u'2020-12-14 21:48:39', u'task_name': u'剩余期数提醒--副本-副本', u'run_status': u'已终止', u'user_name': u'欧昊'}, {u'task_type': u'周期性任务', u'task_id': 20696, u'created_at': u'2020-12-15 18:08:24', u'task_name': u'剩余期数提醒-1-副本-副本', u'run_status': u'暂停中', u'user_name': u'谈光玉'}, {u'task_type': u'一次性任务', u'task_id': 20902, u'created_at': u'2021-04-26 11:40:43', u'task_name': u'详细测试', u'run_status': u'未启动', u'user_name': u'朱孝虎'}], u'template_title': u'ywx222', u'user_id': 5, u'template_type': u'110', u'touch_type': 1}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'ywx222', u'quote_task_info': [{u'task_type': u'周期性任务', u'task_id': 20472, u'created_at': u'2020-09-25 11:54:48', u'task_name': u'1', u'run_status': u'已终止', u'user_name': u'欧昊'}, {u'task_type': u'周期性任务/一次性任务', u'task_id': 20473, u'created_at': u'2020-09-27 10:16:57', u'task_name': u'ywx-custom-select', u'run_status': u'暂停中', u'user_name': u'余文祥'}, {u'task_type': u'周期性任务', u'task_id': 20526, u'created_at': u'2020-10-27 15:39:06', u'task_name': u'1', u'run_status': u'已结束', u'user_name': u'余文祥'}, {u'task_type': u'周期性任务', u'task_id': 20609, u'created_at': u'2020-11-03 11:52:05', u'task_name': u'123456', u'run_status': u'已终止', u'user_name': u'余文祥'}, {u'task_type': u'一次性任务', u'task_id': 20619, u'created_at': u'2020-11-09 11:15:12', u'task_name': u'编辑测试7', u'run_status': u'暂停中', u'user_name': u'谈光玉'}, {u'task_type': u'周期性任务', u'task_id': 20672, u'created_at': u'2020-12-07 16:27:26', u'task_name': u'1', u'run_status': u'已终止', u'user_name': u'欧昊'}, {u'task_type': u'周期性任务', u'task_id': 20688, u'created_at': u'2020-12-14 16:57:25', u'task_name': u'剩余期数提醒-', u'run_status': u'已终止', u'user_name': u'谈光玉'}, {u'task_type': u'周期性任务', u'task_id': 20691, u'created_at': u'2020-12-14 21:46:56', u'task_name': u'剩余期数提醒--副本', u'run_status': u'已终止', u'user_name': u'谈光玉'}, {u'task_type': u'周期性任务', u'task_id': 20692, u'created_at': u'2020-12-14 21:48:39', u'task_name': u'剩余期数提醒--副本-副本', u'run_status': u'已终止', u'user_name': u'欧昊'}, {u'task_type': u'周期性任务', u'task_id': 20696, u'created_at': u'2020-12-15 18:08:24', u'task_name': u'剩余期数提醒-1-副本-副本', u'run_status': u'暂停中', u'user_name': u'谈光玉'}, {u'task_type': u'一次性任务', u'task_id': 20902, u'created_at': u'2021-04-26 11:40:43', u'task_name': u'详细测试', u'run_status': u'未启动', u'user_name': u'朱孝虎'}], u'template_title': u'ywx222', u'user_id': 5, u'template_type': u'110', u'touch_type': 1}, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=8&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=931
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[931]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[931]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=974
+127.0.0.1:8514:{u'data': {u'template_body': u'jtkyu', u'quote_task_info': [], u'template_title': u'hvfsum', u'user_id': 119, u'template_type': u'1136', u'touch_type': 2}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'jtkyu', u'quote_task_info': [], u'template_title': u'hvfsum', u'user_id': 119, u'template_type': u'1136', u'touch_type': 2}, u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=2&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=353
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[353]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[353]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=5&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=123
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[123]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[123]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=4&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=656
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[656]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[656]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:38  True /api/push/template/select_by_id?system_id=39&app_id=4&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=446
+127.0.0.1:8514:{u'data': None, u'error_msg': u'文案id=[446]无效', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'文案id=[446]无效', u'dm_error': -1}
+
+
+2021-04-28 18:02:39  True /api/push/template/select_by_id?system_id=39&app_id=1&ticket=STXWoYBkRsHEyYbqQTacjwuTYPVRiGkSueg&template_id=959
+127.0.0.1:8514:{u'data': {u'template_body': u'xisl', u'quote_task_info': [], u'template_title': u'uqyrihcb', u'user_id': 119, u'template_type': u'1121', u'touch_type': 2}, u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': {u'template_body': u'xisl', u'quote_task_info': [], u'template_title': u'uqyrihcb', u'user_id': 119, u'template_type': u'1121', u'touch_type': 2}, u'error_msg': u'success', u'dm_error': 0}
+
