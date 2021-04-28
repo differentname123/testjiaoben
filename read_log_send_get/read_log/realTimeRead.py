@@ -18,6 +18,15 @@ def httpGet(url):
     return json.loads(response)
 
 
+def realTimeCompare(originStr, machine1):
+    request1 = buildRequest(originStr, HEAD, machine1)
+    if request1 == "":
+        return "", ""
+    originRsp = getValue(originStr, 'resp_body')
+    resp1 = httpGet(request1)
+    return resp1, originRsp
+
+
 # 通过一条日志信息originStr ， 提取相应的请求 分别打向两台机器 并返回响应值
 def compare(originStr, machine1, machine2):
     request1 = buildRequest(originStr, HEAD, machine1)
@@ -61,7 +70,7 @@ def buildPathName(originStr):
 
 # 通过 日志信息 获取指定key的对应值
 def getValue(originStr, key):
-    print originStr
+
     dictData = json.loads(originStr)
     return dictData.get(key)
 
@@ -114,6 +123,15 @@ def ReadLogAndGet(logName, machine1, machine2, count):
         file.close()
 
 
-# 只能访问不再更新的文件
+def realTimeReadLogAndGet():
+    param = sys.argv[1:]
+    if len(param) == 0:
+        return
+    text_line = param[0]
+    path = buildPathName(text_line)
+    result1, result2 = realTimeCompare(text_line, MACHINE1)
+    saveLog(result1, result2, path, MACHINE1, MACHINE2, getValue(text_line, 'req_uri'))
+
+
 if __name__ == '__main__':
-    ReadLogAndGet(sys.path[0] + "/" + 'access-2021042809.log', MACHINE1, MACHINE2, 1)
+    realTimeReadLogAndGet()
