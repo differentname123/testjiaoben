@@ -7,6 +7,8 @@ import sys
 def findFile(name):
     return search(os.path.abspath('.'), name)
 
+def findFileBao(name):
+    return searchBao(os.path.abspath('.'), name)
 
 def search(a, b):
     result = ""
@@ -18,6 +20,20 @@ def search(a, b):
 
         else:
             result = search(a + '/' + file, b)
+            if result != "":
+                return result
+    return result
+
+def searchBao(a, b):
+    result = ""
+    for file in os.listdir(a):
+        if os.path.isfile(a + '/' + file):
+            if b in file:
+                result = a + '/' + file
+                return result
+
+        else:
+            result = searchBao(a + '/' + file, b)
             if result != "":
                 return result
     return result
@@ -34,6 +50,15 @@ def autoRun(fileName):
                 print text_line
                 text_line = text_line.split('\n')
                 text_line = text_line[0]
+
+                # 删除之前的日志信息
+                errPath = findFileBao(text_line + '.error')
+                logPath = findFileBao(text_line + '.log')
+                if logPath != "":
+                    os.remove(logPath)
+                if errPath != "":
+                    os.remove(errPath)
+
                 pyPath = findFile(text_line + '.py')
                 if pyPath == "":
                     continue
