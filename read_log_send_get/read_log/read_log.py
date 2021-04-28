@@ -4,7 +4,6 @@ import sys
 import time
 import urllib2
 
-
 HEAD = "http://"
 MACHINE1 = "127.0.0.1:8514"
 MACHINE2 = "testgrowth.busi.inkept.cn"
@@ -21,7 +20,6 @@ def httpGet(url):
 
 # 通过一条日志信息originStr ， 提取相应的请求 分别打向两台机器 并返回响应值
 def compare(originStr, machine1, machine2):
-
     request1 = buildRequest(originStr, HEAD, machine1)
     request2 = buildRequest(originStr, HEAD, machine2)
     if request2 == "":
@@ -91,7 +89,10 @@ def saveLog(httpresp1, httpresp2, path, machine1, machine2, uri):
         save_data(logmessage, sys.path[0] + "/" + path + '.error')
 
 
+# 解析logName 的count条信息 并分别打向machine1和machine2 最终将反应结果存储在以api为名的文件中
 def ReadLogAndGet(logName, machine1, machine2, count):
+    if count == 0:
+        count = 10000
     path = sys.path[0] + "/" + logName
     file = open(path, 'r')
     i = 0
@@ -106,7 +107,6 @@ def ReadLogAndGet(logName, machine1, machine2, count):
                 path = buildPathName(text_line)
                 result1, result2 = compare(text_line, machine1, machine2)
                 saveLog(result1, result2, path, machine1, machine2, getValue(text_line, 'req_uri'))
-
             else:
                 break
     finally:
@@ -114,4 +114,4 @@ def ReadLogAndGet(logName, machine1, machine2, count):
 
 
 if __name__ == '__main__':
-    ReadLogAndGet('access-2021042615.log', MACHINE1, MACHINE2, 20)
+    ReadLogAndGet('access-2021042809.log', MACHINE1, MACHINE2, 0)
