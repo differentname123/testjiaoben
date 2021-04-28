@@ -7,6 +7,6 @@ API = "/api/push/task/behavior_list"
 CONFIGNAME = "task_behavior_list_config.ini"
 
 if __name__ == '__main__':
-    for i in range(100):
+    for i in range(1):
         print i
         TotalFun(CONFIGNAME, API, MACHINE1, MACHINE2)
