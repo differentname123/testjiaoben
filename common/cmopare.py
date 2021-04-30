@@ -169,7 +169,10 @@ def TotalFun(config_name, api, machine1, machine2, ):
     reload(sys)
     sys.setdefaultencoding('utf8')
     result = httpresp1 == httpresp2
-    if httpresp1['dm_error'] != 0 or httpresp2['dm_error'] != 0 or result == False:
+    size = len(str(httpresp2)) - len(str(httpresp1))
+    # if httpresp1['dm_error'] != 0 or httpresp2['dm_error'] != 0 or (result == False and size !=35): # 用于弥补字段差带来的差别
+    if httpresp1['dm_error'] != 0 or httpresp2['dm_error'] != 0 or (result == False ):
+        print size
         flag1 = 0
     temp = api.split('/')
     for i in temp:
@@ -242,4 +245,4 @@ def testbody():
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print("cmpare")
+    print(len("DuDrxbZE+Yd60Coti316Bb/e4aXhybbAvQkBRNylwfj3C7HvAJnPklNiZV1rw5YsRXvz6+QWNHEx/2cZ96Tb/uwQ"))

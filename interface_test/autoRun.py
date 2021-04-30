@@ -89,7 +89,7 @@ def autoRun(fileName):
 
 # 改程序位置只能与要执行的脚本平行或更上面 ， 不能单独的在某一脚本下面
 def test():
-    autoRun(sys.path[0] + '/' + 'taskGet.txt')
+    autoRun(sys.path[0] + '/' + 'taskANDtemplateGET.txt')
 
 
 if __name__ == '__main__':

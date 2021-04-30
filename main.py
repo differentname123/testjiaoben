@@ -17,7 +17,7 @@ def print_hi(name):
     print("Hi, {0}".format(name))  # Press ⌘F8 to toggle the breakpoint.
 def test():
     xx= {"app_id":1,"template_title":"12345678","template_body":"123456","touch_type":1,"template_type":"0"}
-    print (xx)
+    print (len(", system_id: 39"))
     data = json.dumps(xx)
     print(data)
 

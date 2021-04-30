@@ -1,2 +1,0 @@
-template_list
-template_select_by_id
