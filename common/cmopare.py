@@ -6,7 +6,7 @@ import urllib2
 
 from common import read_config, build_body
 from common.build_query import produce, repalceValue, mergeRequestBody
-from common.read_config import readandset
+from common.read_config import readandset, getConfigValue
 
 HEAD = "http://"
 MACHINE1 = "127.0.0.1:8514"
@@ -115,6 +115,7 @@ def SinglePost(body, config_name, api, machine1, ):
         save_data(logmessage, sys.path[0] + "/" + path + '.error')
     return flag1, logmessage
 
+
 def PostTotalFun(body_config_name, config_name, api, machine1, machine2, ):
     flag1 = 1
     body = build_body.readbody(body_config_name)
@@ -157,13 +158,23 @@ def singleGet(params, api, machine1):
     return httpresp1
 
 
+# 修改一下请求参数
+def fixParams(params):
+    # 改变ticket值的来源 变成从allConfig.ini获得
+    new_ticket = getConfigValue('ticket')
+    return repalceValue(params, "ticket", new_ticket)
+
+
 # 向两台机器发送一个get请求并做比较
 def TotalFun(config_name, api, machine1, machine2, ):
     flag1 = 1
     params = read_config.read(config_name)
+    params = fixParams(params)
     uri = buildURI(api, params)
     path = ""
     flag = 0
+    machine1 = getConfigValue('machine1')
+    machine2 = getConfigValue('machine2')
     httpresp1 = visitURL(machine1, uri)
     httpresp2 = visitURL(machine2, uri)
     reload(sys)
@@ -171,7 +182,7 @@ def TotalFun(config_name, api, machine1, machine2, ):
     result = httpresp1 == httpresp2
     size = len(str(httpresp2)) - len(str(httpresp1))
     # if httpresp1['dm_error'] != 0 or httpresp2['dm_error'] != 0 or (result == False and size !=35): # 用于弥补字段差带来的差别
-    if httpresp1['dm_error'] != 0 or httpresp2['dm_error'] != 0 or (result == False ):
+    if httpresp1['dm_error'] != 0 or httpresp2['dm_error'] != 0 or (result == False):
         print size
         flag1 = 0
     temp = api.split('/')

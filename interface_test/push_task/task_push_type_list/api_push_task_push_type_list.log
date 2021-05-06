@@ -1,0 +1,50 @@
+
+2021-05-06 09:24:39  True /api/push/task/push_type_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/push_type_list?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/push_type_list?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/push_type_list?system_id=39&app_id=3&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/push_type_list?system_id=39&app_id=6&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/push_type_list?system_id=39&app_id=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/push_type_list?system_id=39&app_id=6&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/push_type_list?system_id=39&app_id=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/push_type_list?system_id=39&app_id=6&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/push_type_list?system_id=39&app_id=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'APNS'}, {u'value': 2, u'label': u'极光'}, {u'value': 3, u'label': u'小米'}, {u'value': 4, u'label': u'APNS-DEV'}, {u'value': 8, u'label': u'华为'}, {u'value': 9, u'label': u'OPPO'}, {u'value': 10, u'label': u'vivo'}, {u'value': 11, u'label': u'阿里云'}, {u'value': 6, u'label': u'长连接'}], u'error_msg': u'success', u'dm_error': 0}
+

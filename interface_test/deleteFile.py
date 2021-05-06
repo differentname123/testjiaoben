@@ -19,5 +19,5 @@ def search(a, b):
 
 
 if __name__ == "__main__":
-    os.remove('/Users/inke213261m/PycharmProjects/pythonProject/interface_test/task_behavior_list/api_push_task_behavior_list.log')
+    os.remove('/interface_test/push_task/task_behavior_list/api_push_task_behavior_list.log')
     print findFile('task')

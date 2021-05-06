@@ -1,0 +1,50 @@
+
+2021-05-06 09:24:41  True /api/push/task/sender_list?system_id=39&app_id=8&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:41  True /api/push/task/sender_list?system_id=39&app_id=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:41  True /api/push/task/sender_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:41  True /api/push/task/sender_list?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:41  True /api/push/task/sender_list?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:41  True /api/push/task/sender_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:41  True /api/push/task/sender_list?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:41  True /api/push/task/sender_list?system_id=39&app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:41  True /api/push/task/sender_list?system_id=39&app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:41  True /api/push/task/sender_list?system_id=39&app_id=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': u'120948', u'label': u'映客'}, {u'value': u'1', u'label': u'官方通知'}, {u'value': u'0', u'label': u'自定义'}], u'error_msg': u'success', u'dm_error': 0}
+

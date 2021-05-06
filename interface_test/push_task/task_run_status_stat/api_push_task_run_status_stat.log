@@ -1,0 +1,50 @@
+
+2021-05-06 09:24:43  True /api/push/task/run_status_stat?task_name=&touch_type=2&user_id=&run_status=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=4
+127.0.0.1:8514:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/run_status_stat?task_name=&touch_type=2&user_id=&run_status=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=4
+127.0.0.1:8514:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/run_status_stat?task_name=&touch_type=1&user_id=&run_status=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=9
+127.0.0.1:8514:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/run_status_stat?task_name=&touch_type=1&user_id=&run_status=2&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=7
+127.0.0.1:8514:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/run_status_stat?task_name=&touch_type=2&user_id=&run_status=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=1
+127.0.0.1:8514:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/run_status_stat?task_name=&touch_type=2&user_id=&run_status=5&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=2
+127.0.0.1:8514:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/run_status_stat?task_name=&touch_type=2&user_id=105&run_status=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=7
+127.0.0.1:8514:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/run_status_stat?task_name=&touch_type=2&user_id=&run_status=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=8
+127.0.0.1:8514:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/run_status_stat?task_name=&touch_type=1&user_id=&run_status=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=5
+127.0.0.1:8514:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/run_status_stat?task_name=&touch_type=1&user_id=&run_status=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=10
+127.0.0.1:8514:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'任务状态统计失败', u'dm_error': -1}
+

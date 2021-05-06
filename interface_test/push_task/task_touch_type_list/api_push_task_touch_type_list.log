@@ -1,0 +1,50 @@
+
+2021-05-06 09:24:38  True /api/push/task/touch_type_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'推送'}, {u'value': 2, u'label': u'短信'}, {u'value': 3, u'label': u'私信'}, {u'value': 4, u'label': u'微信服务号消息'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'推送'}, {u'value': 2, u'label': u'短信'}, {u'value': 3, u'label': u'私信'}, {u'value': 4, u'label': u'微信服务号消息'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:38  True /api/push/task/touch_type_list?system_id=39&app_id=6&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 2, u'label': u'短信'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 2, u'label': u'短信'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:38  True /api/push/task/touch_type_list?system_id=39&app_id=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:38  True /api/push/task/touch_type_list?system_id=39&app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:38  True /api/push/task/touch_type_list?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:38  True /api/push/task/touch_type_list?system_id=39&app_id=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'推送'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'推送'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:38  True /api/push/task/touch_type_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'推送'}, {u'value': 2, u'label': u'短信'}, {u'value': 3, u'label': u'私信'}, {u'value': 4, u'label': u'微信服务号消息'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'推送'}, {u'value': 2, u'label': u'短信'}, {u'value': 3, u'label': u'私信'}, {u'value': 4, u'label': u'微信服务号消息'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:38  True /api/push/task/touch_type_list?system_id=39&app_id=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'推送'}, {u'value': 3, u'label': u'私信'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'推送'}, {u'value': 3, u'label': u'私信'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:38  True /api/push/task/touch_type_list?system_id=39&app_id=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'推送'}, {u'value': 3, u'label': u'私信'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'推送'}, {u'value': 3, u'label': u'私信'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/touch_type_list?system_id=39&app_id=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'推送'}, {u'value': 2, u'label': u'短信'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'推送'}, {u'value': 2, u'label': u'短信'}], u'error_msg': u'success', u'dm_error': 0}
+

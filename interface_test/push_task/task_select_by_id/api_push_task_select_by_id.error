@@ -1,0 +1,25 @@
+
+2021-05-06 09:24:42  True /api/push/task/select_by_id?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&id=20836
+127.0.0.1:8514:{u'data': None, u'error_msg': u'record not found', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'record not found', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/select_by_id?system_id=39&app_id=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&id=20626
+127.0.0.1:8514:{u'data': None, u'error_msg': u'record not found', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'record not found', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/select_by_id?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&id=20024
+127.0.0.1:8514:{u'data': None, u'error_msg': u'record not found', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'record not found', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/select_by_id?system_id=39&app_id=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&id=20468
+127.0.0.1:8514:{u'data': None, u'error_msg': u'record not found', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'record not found', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/select_by_id?system_id=39&app_id=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&id=20382
+127.0.0.1:8514:{u'data': None, u'error_msg': u'record not found', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'record not found', u'dm_error': -1}
+

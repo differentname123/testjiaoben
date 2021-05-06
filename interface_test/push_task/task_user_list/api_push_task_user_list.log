@@ -1,0 +1,50 @@
+
+2021-05-06 09:24:42  True /api/push/task/user_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&task_type=1
+127.0.0.1:8514:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/user_list?system_id=39&app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&task_type=1
+127.0.0.1:8514:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/user_list?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&task_type=2
+127.0.0.1:8514:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/user_list?system_id=39&app_id=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&task_type=1
+127.0.0.1:8514:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/user_list?system_id=39&app_id=9&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&task_type=1
+127.0.0.1:8514:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/user_list?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&task_type=2
+127.0.0.1:8514:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/user_list?system_id=39&app_id=8&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&task_type=2
+127.0.0.1:8514:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/user_list?system_id=39&app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&task_type=1
+127.0.0.1:8514:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/user_list?system_id=39&app_id=3&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&task_type=2
+127.0.0.1:8514:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/user_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&task_type=2
+127.0.0.1:8514:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'责任人查询失败', u'dm_error': -1}
+

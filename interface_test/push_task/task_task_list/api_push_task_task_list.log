@@ -1,0 +1,50 @@
+
+2021-05-06 09:24:41  True /api/push/task/task_list?start_page=2&page_size=6&touch_type=1&task_name=&user_id=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=2
+127.0.0.1:8514:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:41  True /api/push/task/task_list?start_page=2&page_size=12&touch_type=2&task_name=&user_id=43&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=6
+127.0.0.1:8514:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:41  True /api/push/task/task_list?start_page=1&page_size=12&touch_type=1&task_name=kxzw&user_id=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=3
+127.0.0.1:8514:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:41  True /api/push/task/task_list?start_page=2&page_size=10&touch_type=1&task_name=&user_id=&task_type=0&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=5
+127.0.0.1:8514:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:41  True /api/push/task/task_list?start_page=1&page_size=7&touch_type=2&task_name=&user_id=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=7
+127.0.0.1:8514:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:41  True /api/push/task/task_list?start_page=2&page_size=12&touch_type=2&task_name=&user_id=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=6
+127.0.0.1:8514:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:41  True /api/push/task/task_list?start_page=2&page_size=8&touch_type=1&task_name=&user_id=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=5
+127.0.0.1:8514:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/task_list?start_page=2&page_size=12&touch_type=2&task_name=&user_id=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=8
+127.0.0.1:8514:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/task_list?start_page=1&page_size=14&touch_type=1&task_name=&user_id=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=3
+127.0.0.1:8514:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:42  True /api/push/task/task_list?start_page=2&page_size=10&touch_type=2&task_name=&user_id=&task_type=&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo&system_id=39&app_id=3
+127.0.0.1:8514:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'用户认证失败', u'dm_error': -1}
+

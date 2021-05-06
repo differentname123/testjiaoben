@@ -1,0 +1,50 @@
+
+2021-05-06 09:24:39  True /api/push/task/run_type_list?system_id=39&app_id=8&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:39  True /api/push/task/run_type_list?system_id=39&app_id=5&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:40  True /api/push/task/run_type_list?system_id=39&app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:40  True /api/push/task/run_type_list?system_id=39&app_id=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:40  True /api/push/task/run_type_list?system_id=39&app_id=7&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:40  True /api/push/task/run_type_list?system_id=39&app_id=3&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:40  True /api/push/task/run_type_list?system_id=39&app_id=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:40  True /api/push/task/run_type_list?system_id=39&app_id=6&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:40  True /api/push/task/run_type_list?system_id=39&app_id=6&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+
+
+2021-05-06 09:24:40  True /api/push/task/run_type_list?system_id=39&app_id=3&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+testgrowth.busi.inkept.cn:{u'data': [{u'value': 1, u'label': u'周期性任务'}, {u'value': 2, u'label': u'一次性任务'}], u'error_msg': u'success', u'dm_error': 0}
+

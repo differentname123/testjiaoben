@@ -1,0 +1,50 @@
+
+2021-05-06 09:24:43  True /api/push/task/behavior_list?system_id=39&app_id=3&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/behavior_list?system_id=39&app_id=10&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/behavior_list?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/behavior_list?system_id=39&app_id=4&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/behavior_list?system_id=39&app_id=2&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/behavior_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/behavior_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/behavior_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/behavior_list?system_id=39&app_id=3&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+
+
+2021-05-06 09:24:43  True /api/push/task/behavior_list?system_id=39&app_id=1&ticket=STXkNgDuDREBRrqSAIYZDAoQsmkgkwPWETo
+127.0.0.1:8514:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+testgrowth.busi.inkept.cn:{u'data': None, u'error_msg': u'获取推送行为列表失败', u'dm_error': -1}
+
